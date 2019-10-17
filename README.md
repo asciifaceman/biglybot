@@ -1,6 +1,14 @@
 # Bigly Bot
 A  markov chain powered bot to generate new trump tweets. When trained off the provided bullshit.txt, it will sometimes repeat his tweet verbatim: this is just probalistic and related to how unique phrases can be (also due to how new spoken sentences are started).
 
+# TODO
+* Service-ize
+* Turn into an API response
+* Add a front end
+
+Why I'm not doing twitter:
+
+* It's just a painful process to get an approved developer account then worry about them yanking it for auto posting, etc.
 
 # Training
 Your training file must be new-line delimited strings
